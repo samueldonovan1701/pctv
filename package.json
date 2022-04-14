@@ -1,0 +1,28 @@
+{
+  "name": "pctv",
+  "version": "0.0.0",
+  "description": "A digital media app written using electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samueldonovan1701/pctv.git"
+  },
+  "keywords": [
+    "electron",
+    "streaming",
+    "video",
+    "tv"
+  ],
+  "author": "Samuel Donovan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samueldonovan1701/pctv/issues"
+  },
+  "homepage": "https://github.com/samueldonovan1701/pctv#readme",
+  "dependencies": {
+    "electron": "^18.0.3"
+  }
+}
