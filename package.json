@@ -22,7 +22,7 @@
     "url": "https://github.com/samueldonovan1701/pctv/issues"
   },
   "homepage": "https://github.com/samueldonovan1701/pctv#readme",
-  "dependencies": {
-    "electron": "^18.0.3"
+  "devDependencies": {
+    "electron": "^18.0.4"
   }
 }
